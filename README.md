@@ -1,5 +1,5 @@
 # Pembayaran
-![ScreenShot]("https://github.com/xjoliez/Pembayaran/blob/master/byr.PNG" "")
+![ScreenShot](https://github.com/xjoliez/Pembayaran/blob/master/byr.PNG "")
 #Nama
 Selina Kusmiawati
 #Kelas
